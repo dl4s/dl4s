@@ -1,0 +1,11 @@
+.DS_Store
+
+build
+**.history
+.settings
+.classpath
+target/
+.project
+
+*.iml
+/.idea/

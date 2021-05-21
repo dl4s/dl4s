@@ -13,7 +13,7 @@
         <lucene.version>7.7.1</lucene.version>
         <nd4j.version>1.0.0-beta3</nd4j.version>
         <dl4j.version>1.0.0-beta3</dl4j.version>
-        <flink.version>1.6.0</flink.version>
+        <flink.version>1.9.2</flink.version>
         <scala.version>2.11</scala.version>
     </properties>
     <dependencies>
